@@ -1,4 +1,4 @@
-# E-commerce-website
+# FashionHub
 # Overview
 FashionHub is a comprehensive e-commerce platform offering a wide range of fashion products for men, women, and children. Users can browse through various categories, add items to their cart, and make secure purchases.
 
